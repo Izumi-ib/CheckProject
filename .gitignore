@@ -33,3 +33,13 @@ bin/
 
 .idea/dataSources*
 .idea/**/dataSources*
+
+#### Java/Maven/Gradle build artifacts ###
+target/
+build/
+*.class
+
+### Archives / logs ###
+*.log
+*.jar
+*.war
