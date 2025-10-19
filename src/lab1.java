@@ -1,4 +1,4 @@
-public class Main {
+public class lab1 {
     public static void main(String[] args) {
         int sum = add(5, 8);
         System.out.println(sum);
